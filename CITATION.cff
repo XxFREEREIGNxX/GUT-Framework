@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Grand Unifying Theory Potential Framework v7.21"
+authors:
+  - family-names: "Morgan"
+    given-names: "Christopher Ford"
+  - family-names: "Grok"
+    given-names: "xAI"
+year: 2026
+doi: "10.5281/zenodo.XXXXXXX"   # update after upload
